@@ -2,7 +2,8 @@
 
 Paper : https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 
-year : 201
+year : 2012
+
 Authors : Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 
 -----------------------------------------------
